@@ -1,5 +1,9 @@
 # Seventeen Syllables of Debugging
 
+[![make.fun · u-irvan-motion-seventeen-syllables-of-debugging-d194b605](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+[![rank](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/yudhisutawan/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/rank.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+[![reward](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/yudhisutawan/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/reward.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+
 Entry for make.fun competition
 `u-irvan-motion-seventeen-syllables-of-debugging-d194b605` — $5 (1st $2, 2nd $2, 3rd $1),
 deadline 24 Nov 2026 21:15 WITA. Entry: one haiku about debugging, 3 lines, 5-7-5
